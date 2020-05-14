@@ -1,0 +1,7 @@
+{
+  "name": "Dashboard - Ionic CLI & React",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
